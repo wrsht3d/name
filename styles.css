@@ -24,4 +24,58 @@ body {
   text-align: left; /* المحاذاة إلى اليسار */
   font-size: 100px; /* زيادة حجم النص في #displayText إلى 50 بكسل */
 }
-/* باقي قواعد CSS للخطوط */
+
+@font-face {
+  font-family: 'A';
+  src: url('fonts/A.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'B';
+  src: url('fonts/B.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'C';
+  src: url('fonts/C.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'D';
+  src: url('fonts/D.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'E';
+  src: url('fonts/E.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'F';
+  src: url('fonts/F.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'G';
+  src: url('fonts/G.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'H';
+  src: url('fonts/H.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'I';
+  src: url('fonts/I.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'J';
+  src: url('fonts/J.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'K';
+  src: url('fonts/K.ttf') format('truetype');
+}
