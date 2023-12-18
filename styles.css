@@ -47,7 +47,7 @@ body {
 
 @font-face {
   font-family: 'E';
-  src: url('fonts/E.ttf') format('truetype');
+  src: url('fonts/E.otf') format('truetype');
 }
 
 @font-face {
@@ -67,7 +67,7 @@ body {
 
 @font-face {
   font-family: 'I';
-  src: url('fonts/I.ttf') format('truetype');
+  src: url('fonts/I.otf') format('truetype');
 }
 
 @font-face {
@@ -77,5 +77,5 @@ body {
 
 @font-face {
   font-family: 'K';
-  src: url('fonts/K.ttf') format('truetype');
+  src: url('fonts/K.otf') format('truetype');
 }
