@@ -20,8 +20,8 @@ body {
 }
 
 #displayText {
-  text-align: left; /* تحديد المحاذاة إلى اليسار */
-   font-size: 150px;
+  text-align: left; /* المحاذاة إلى اليسار */
+  font-size: 24px; /* حجم الخط */
 }
 
 @font-face {
@@ -32,4 +32,54 @@ body {
 @font-face {
   font-family: 'B';
   src: url('fonts/B.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'C';
+  src: url('fonts/C.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'D';
+  src: url('fonts/D.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'E';
+  src: url('fonts/E.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'F';
+  src: url('fonts/F.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'G';
+  src: url('fonts/G.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'H';
+  src: url('fonts/H.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'I';
+  src: url('fonts/I.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'J';
+  src: url('fonts/J.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'K';
+  src: url('fonts/K.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'L';
+  src: url('fonts/L.ttf') format('truetype');
 }
