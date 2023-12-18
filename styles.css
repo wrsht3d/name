@@ -21,7 +21,7 @@ body {
 
 #displayText {
   text-align: left; /* تحديد المحاذاة إلى اليسار */
-   font-size: 50px;
+   font-size: 150px;
 }
 
 @font-face {
